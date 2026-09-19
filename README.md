@@ -1,16 +1,12 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/jallad/jallad/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-<!--
-**mjjallad/mjjallad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mohammad Jallad
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   :rocket: I am working as a **Solo Founder & Technical Operator**
+-   :speech_balloon: Building **Basira** — AI-powered Arabic-dialect customer support for merchants
+-   :motorcycle: Building **Diken** — delivery operations management system
+-   :monocle_face: Interested in everything **LLM-native** — agents, tooling, retrieval
+-   :seedling: Currently learning **Golang**
+-   :chart_with_upwards_trend: Side quest: algorithmic trading — ICT/SMC on gold & NASDAQ
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds..
