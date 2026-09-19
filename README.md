@@ -10,3 +10,8 @@
 -   :chart_with_upwards_trend: Side quest: algorithmic trading — ICT/SMC on gold & NASDAQ
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds..
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
